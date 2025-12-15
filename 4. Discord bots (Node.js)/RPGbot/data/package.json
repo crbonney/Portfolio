@@ -1,0 +1,16 @@
+{
+  "name": "RPBot",
+  "version": "0.0.0",
+  "description": "RPG bot",
+  "main": "app.js",
+  "author": "Colonel Rabbit",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "discordv8": "*"
+  },
+  "token": "Secret"
+}

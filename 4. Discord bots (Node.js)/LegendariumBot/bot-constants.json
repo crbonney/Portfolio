@@ -1,0 +1,190 @@
+
+{
+  "TESTING_MODE": false,
+  "HOUR": 3600000,
+  "prefix": "!",
+  "emojis": {
+    "reminder_emoji": "✅",
+    "confirm_emoji": "👍",
+    "delete_dm_emoji": "❌"
+  },
+
+  "users": {
+    "bot": {
+      "id": "615671489907392513",
+      "mp3id": "499743604475166721"
+    },
+    "rabbit": {
+      "id": "190248534925246464"
+    },
+    "lrb": {
+      "id": "590355820764463115"
+    },
+    "craig": {
+      "id": "520298731900239882"
+    },
+    "kyp": {
+      "id": "136512264386641920"
+    },
+    "panda": {
+      "id": "582244851794444291"
+    }
+  },
+
+  "greenTeam": {
+    "alert_role": {
+      "id": "746230969832308847"
+    },
+    "forum": {
+      "id": "1058892467958710337"
+    },
+    "forum_home": {
+      "id": "1058949048977072159"
+    }
+  },
+  "mainTeam": {
+    "alert_role": {
+      "id": "746230901599633500"
+    },
+    "forum": {
+      "id": "1058892582320619580"
+    },
+    "forum_home": {
+      "id": "1058948842957058119"
+    }
+  },
+
+  "communityTest": {
+    "alert_role": {
+      "id": "1064067416780451891"
+    },
+    "id": "1058941212494680114",
+    "forum": {
+      "id": "1059290717459058758"
+    },
+    "forum_home": {
+      "id": "1062078733533581332"
+    }
+  },
+
+  "rabbitPen": {
+    "forum": {
+      "id": "1059110665052241940"
+    },
+    "forum_home": {
+      "id": "1059163393006768169"
+    }
+  },
+
+  "legendarium": {
+    "id": "522815365282136076",
+    "general": {
+      "id": "522815365282136080"
+    },
+    "rules": {
+      "id": "522821540014981121"
+    },
+    "react_roles": {
+      "id": "928438898315653130"
+    },
+    "introductions": {
+      "id": "523512119472160768"
+    }
+  },
+
+  "episode_management_roles": [
+    {
+      "name": "Craig",
+      "id": "686802319685189653"
+    },
+    {
+      "name": "Legendarium",
+      "id": "522817202462916617"
+    },
+    {
+      "name": "Admin",
+      "id": "522817177318064135"
+    },
+    {
+      "name": "Moderator",
+      "id": "522817154022899713"
+    }
+  ],
+
+  "react_role_data": [
+    {
+      "name": "2025 Bookish Goals",
+      "id": "1193296473996136629",
+      "emoji": "patty",
+      "custom_emoji": true
+    },
+  	{
+  		"name": "Cult of Craig",
+  		"id": "567548588729827347",
+  		"emoji": "CraigApproved",
+  		"custom_emoji": true
+  	},
+  	{
+  		"name": "Troupe of Todd",
+  		"id": "567548944725311498",
+  		"emoji": "🥲"
+  	},
+  	{
+  		"name": "Knights of Kenn",
+  		"id": "567549041878237194",
+  		"emoji": "🛡️"
+  	},
+  	{
+  		"name": "Ryan's Roughnecks",
+  		"id": "567548998257213460",
+  		"emoji": "🤠"
+  	},
+  	{
+  		"name": "Kyle's Congregation",
+  		"id": "567549112954650656",
+  		"emoji": "🙏"
+  	},
+  	{
+  		"name": "Megan's Mob",
+  		"id": "567549077764702218",
+  		"emoji": "🍪"
+  	},
+  	{
+  		"name": "Stephanie's Secret Society",
+  		"id": "637764320574439498",
+  		"emoji": "SkepticalStephanie",
+  		"custom_emoji": true
+  	},
+  	{
+  		"name": "Livestream Alert",
+  		"id": "746230761992093739",
+  		"emoji": "⏯️"
+  	},
+  	{
+  		"name": "Episode Alert",
+  		"id": "746230901599633500",
+  		"emoji": "🎵"
+  	},
+  	{
+  		"name": "Green Team Alert",
+  		"id": "746230969832308847",
+  		"emoji": "📗"
+  	},
+  	{
+  		"name": "Pierce Book Club",
+  		"id": "745420558484635780",
+  		"emoji": "🦁"
+  	},
+  	{
+  		"name": "Question Alert",
+  		"id": "746556284303704124",
+  		"emoji": "❓"
+  	},
+  	{
+  		"name": "AmongUs",
+  		"id": "765815496783298580",
+  		"emoji": "👾"
+  	}
+  ]
+
+}

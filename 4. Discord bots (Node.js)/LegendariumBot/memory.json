@@ -1,0 +1,87 @@
+{
+  "mainTeam": {
+    "ignore_next": {
+      "flag": false,
+      "id": "190248534925246464"
+    },
+    "latest_episode": {
+      "title": "#441. The Tiger's Daughter with Martha Wells | The Author's Shelf",
+      "link": "https://open.spotify.com/episode/4HpRCZgTI1Mzl2FoCx2Op7",
+      "number": "441",
+      "id": "4HpRCZgTI1Mzl2FoCx2Op7",
+      "description": "Martha Wells stops by for another installment of The Author's Shelf. Together, she and Craig discuss The Tiger's Daughter, the 2017 novel by K. Arsenault Rivera."
+    },
+    "series": [
+      {
+        "identifier": "Redwall",
+        "threadId": "1137546442869837945"
+      },
+      {
+        "identifier": "Acts of Caine",
+        "threadId": "1163859721095229501"
+      }
+    ],
+    "fake": false
+  },
+  "greenTeam": {
+    "ignore_next": {
+      "flag": false,
+      "id": "190248534925246464"
+    },
+    "latest_episode": {
+      "title": "#: War Maid's Choice by David Webber (Hradani /War God #4)",
+      "link": "https://open.spotify.com/episode/5Irsf2UlvGp4qoVNJxAnx2",
+      "number": "4",
+      "id": "5Irsf2UlvGp4qoVNJxAnx2",
+      "description": "Seeker and Jingalls are back with the next installment in the Hradani / War God series by David Webber."
+    },
+    "series": [
+      {
+        "identifier": "Recluce",
+        "threadId": "1069391504650551408"
+      },
+      {
+        "identifier": "The Culture",
+        "threadId": "1058927076771631145"
+      },
+      {
+        "identifier": "Earthsea Cycle",
+        "threadId": "1147172661043138653"
+      },
+      {
+        "identifier": "The Old Kingdom",
+        "threadId": "1151934962346504214"
+      },
+      {
+        "identifier": "Dragaeran Cycle",
+        "threadId": "1184883683077914715"
+      },
+      {
+        "identifier": "The Book of the New Sun",
+        "threadId": "1226147882101637180"
+      },
+      {
+        "identifier": "Alex Verus",
+        "threadId": "1238966768274378865"
+      }
+    ],
+    "fake": false
+  },
+  "communityTest": {
+    "ignore_next": {
+      "flag": false,
+      "id": "190248534925246464"
+    },
+    "latest_episode": {
+      "title": "xxx",
+      "link": "abc.com",
+      "number": 60
+    },
+    "series": [
+      {
+        "identifier": "Malazan",
+        "threadId": "1062464011582578788"
+      }
+    ]
+  }
+}
