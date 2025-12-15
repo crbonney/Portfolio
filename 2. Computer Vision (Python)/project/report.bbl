@@ -1,0 +1,32 @@
+\begin{thebibliography}{1}\itemsep=-1pt
+
+\bibitem{arduino}
+Anusha.
+\newblock How to make arduino line follower robot?
+\newblock Electronics Hub, 2017.
+
+\bibitem{boudjit}
+K.~Boudjit and C.~Larbes.
+\newblock Detection and implementation autonomous target tracking with a
+  quadrotor ar.drone.
+\newblock 2015.
+
+\bibitem{ceppi}
+P.~Ceppi.
+\newblock Model-based design of a line-tracking algorithm for a low-cost mini
+  drone through vision-based control.
+\newblock University of Chicago, 2020.
+
+\bibitem{prayitno}
+A.~Prayitno, V.~Indrawati, and G.~Utomo.
+\newblock Trajectory tracking of ar.drone quadrotor using fuzzy logic
+  controller.
+\newblock University of Surabaya, 2014.
+
+\bibitem{wise}
+K.~Wise and E.~Lavretsky.
+\newblock {\em Robust and Adaptive Control: With Aerospace Applications
+  (Advanced Textbooks in Control and Signal Processing)}.
+\newblock Springer, 2013.
+
+\end{thebibliography}

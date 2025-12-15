@@ -1,0 +1,56 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: report.aux
+Reallocating 'name_of_file' (item size: 1) to 5 items.
+The style file: ieee.bst
+Reallocating 'name_of_file' (item size: 1) to 5 items.
+Database file #1: refs.bib
+I was expecting a `,' or a `}'---line 14 of file refs.bib
+ :  
+ :  note={IEEE},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "blah"
+Warning--empty note in boudjit
+You've used 5 entries,
+            2120 wiz_defined-function locations,
+            523 strings with 4368 characters,
+and the built_in function-call counts, 1072 in all, are:
+= -- 105
+> -- 58
+< -- 0
++ -- 23
+- -- 18
+* -- 54
+:= -- 218
+add.period$ -- 15
+call.type$ -- 5
+change.case$ -- 23
+chr.to.int$ -- 0
+cite$ -- 6
+duplicate$ -- 36
+empty$ -- 67
+format.name$ -- 18
+if$ -- 204
+int.to.chr$ -- 0
+int.to.str$ -- 5
+missing$ -- 2
+newline$ -- 28
+num.names$ -- 10
+pop$ -- 17
+preamble$ -- 1
+purify$ -- 19
+quote$ -- 0
+skip$ -- 28
+stack$ -- 0
+substring$ -- 25
+swap$ -- 1
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 18
+warning$ -- 1
+while$ -- 10
+width$ -- 6
+write$ -- 51
+(There was 1 error message)
