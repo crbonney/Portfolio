@@ -1,0 +1,24 @@
+input[type="text"]{
+	width:350px;
+}
+
+input[type="button"]{
+	width:100px;
+}
+
+li {
+	list-style-type:none;
+	width:500px;
+}
+li:nth-child(even){
+	background-color: lightyellow;
+}
+li:nth-child(odd){
+	background-color:lightblue;
+}
+
+table, th, td {
+  border: 1px solid red;
+}
+
+
