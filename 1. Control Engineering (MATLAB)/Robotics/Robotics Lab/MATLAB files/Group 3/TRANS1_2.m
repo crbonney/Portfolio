@@ -1,0 +1,9 @@
+function [ T ] = TRANS1_2( theta )
+
+
+    T = [cos(theta) -sin(theta)  0  0;...
+             0           0      -1  8;...
+         sin(theta)  cos(theta)  0  0;...
+             0           0       0  1];
+end
+

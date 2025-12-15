@@ -1,0 +1,16 @@
+function [ P1 ] = TRANS12SF(P2, theta)
+
+    [~,N] = size(P2);
+    T12 =   [...
+            cos(theta)  -sin(theta)  0  0 ;...
+                0             0      1  2 ;...
+           -sin(theta)  -cos(theta)  0  0 ;...
+                0             0      0  1 ;...
+    ];
+
+    P1 = [P2; ones(1,N)];
+    P1 = T12*P1;
+    P1 = P1(1:3,:);
+
+end
+

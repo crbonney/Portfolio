@@ -1,0 +1,16 @@
+function [ P5 ] = TRANS56SF(P6, theta)
+
+    [~,N] = size(P6);
+    T56 =   [...
+            cos(theta)  -sin(theta)  0  0 ;...
+                0             0     -1  0 ;...
+            sin(theta)   cos(theta)  0  0 ;...
+                0             0      0  1 ;...
+    ];
+
+    P5 = [P6; ones(1,N)];
+    P5 = T56*P5;
+    P5 = P5(1:3,:);
+
+end
+

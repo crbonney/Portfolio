@@ -1,0 +1,16 @@
+function [ P4 ] = TRANS45SF(P5, theta)
+
+    [~,N] = size(P5);
+    T45 =   [...
+            cos(theta)  -sin(theta)  0  0 ;...
+                0             0      1  0 ;...
+           -sin(theta)  -cos(theta)  0  0 ;...
+                0             0      0  1 ;...
+    ];
+
+    P4 = [P5; ones(1,N)];
+    P4 = T45*P4;
+    P4 = P4(1:3,:);
+
+end
+
